@@ -19,16 +19,15 @@ I credit the Alternative Spring Break (ASB) Programs with setting the path for m
   <img src="assets/images/identities.png" alt="">
 </figure>
 
-I first participated in the Environmental Spring Break Program (EASB) in 2013 during my freshman year. My team worked with elementary and middle school students at the Quileute Tribal School in La Push, Washington. As an international student, I was motivated to participate in the program to learn more about Washington and its communities and visit a new place. 
+I first participated in the Environmental Spring Break Program (EASB) in 2013 during my freshman year. My team worked with elementary and middle school students at the Quileute Tribal School in La Push, Washington. As an international student, I was motivated to participate in the program to learn more about Washington and its communities. 
 
-EASB was a pivot point for my undergraduate trajectory. Educating students about the environment instilled in me a deep appreciation for it. Therefore, I made the decision to switch my major from molecular biology to electrical engineering with the hopes of working on sustainable energy. It was also my first experience in the classroom as an educator. EASB was the first inkling to me that creating impact and connecting with a diverse community were core to what gives meaning to my life.
-
+EASB was a pivot point in my undergraduate trajectory. Educating students about the environment instilled in me a deep appreciation for it. Therefore, I decided to switch my major from molecular biology to electrical engineering with the hopes of studying sustainable energy. It was also my first experience as an educator. EASB was the first inkling that creating impact and connecting with a diverse community were core to my sense of purpose.
 
 
 <h1>Giving Back</h1>
 
-The switch to engineering was not easy. I suffered from extreme imposter syndrome and lost sight of what motivated my switch. Instead of pursuing sustainability, I chose the path everyone around me was following and focused on embedded computing systems, an area I was not particularly excited by, but had the best job prospects. I graduated with a good grade, but lost a sense of purpose. As I started my Masters program in ECE, I was looking to create opportunities where I could have direct impact on a community. 
+The switch to engineering was not easy. I suffered from imposter syndrome and lost sight of what motivated the switch. Instead of pursuing sustainability, I chose the path everyone around me was following and focused on embedded computing systems, an area I was not excited by, but had the best job prospects. I graduated with a good grade, but lost a sense of purpose. In 2016, I started my Masters program in ECE and was looking for opportunities where I could have direct impact on a community. 
 
-I approached The Pipeline Project with an idea to have an engineering focused ASB program. They already had a year old STEM ASB program, but it lacked an engineering focus. Consequently, we engaged with a new school Granger High School in Yakima Valley and brought to the students an engineering design focused curriculum. I was engaged with the program until 2020. 
+I approached The Pipeline Project with the idea to have an engineering focused ASB. They already had a new STEM ASB program, but it lacked an engineering focus. Consequently, we engaged with a new school (Granger High School) in Yakima Valley and brought to the students an engineering design focused curriculum. I was involved with the program until 2020. 
 
-The ASB programs prompted me to discover my values, planted the seeds of my identity as an educator and made a confident engineer who could drive impact while connecting with communities in need.
+The ASB programs prompted me to discover my values, realize my identity as an educator and be a confident engineer who could drive impact while connecting with communities in need. It highlighted the importance of empathy, culturally-responsive and community-oriented education, which inform the tenets of my teaching philosophy.

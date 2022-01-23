@@ -3,7 +3,7 @@ layout: splash
 permalink: /entre/
 title: "Entrepreneurship"
 header:
-  overlay_image: {{ site.url }}{{ site.baseurl }}/assets/images/asb.jpg
+  overlay_image: /assets/images/asb.jpg
   overlay_color: #000
   overlay_filter: 0.5
   caption: "My ASB team at Granger, Washington 2017"

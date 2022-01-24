@@ -3,7 +3,7 @@ layout: splash
 permalink: /asb/
 title: "Alternative Spring Break Programs"
 header:
-  overlay_image: /assets/images/asb.jpg
+  overlay_image: /assets/images/asb.JPG
   caption: "My ASB team at Granger, Washington 2017"
 ---
  

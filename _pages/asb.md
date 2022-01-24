@@ -3,7 +3,7 @@ layout: splash
 permalink: /asb/
 title: "Alternative Spring Break Programs"
 header:
-  image: /assets/images/asb.jpg
+  overlay_image: /assets/images/asb.jpg
   caption: "My ASB team at Granger, Washington 2017"
 ---
  
@@ -13,8 +13,8 @@ The Alternative Spring Break (ASB) Programs have catalyzed my unique UW experien
 
 <h1>The Beginning</h1>
 
-<figure style="width: 500px" class="align-left">
-  <img src="/assets/images/identities.png" alt="">
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/identities.png" alt="">
 </figure>
 
 I first participated in the Environmental ASB in 2013 during my freshman year. My team worked with elementary and middle school students at the Quileute Tribal School in La Push, Washington. As an international student, I was motivated to participate in the program to learn more about Washington and its communities. 

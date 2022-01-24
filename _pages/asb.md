@@ -4,7 +4,7 @@ permalink: /asb/
 title: "Alternative Spring Break Programs"
 header:
   oheader:
-  overlay_image: /assets/images/header_image.jpg
+  overlay_image: /assets/images/asb.JPG 
   overlay_color: "#000"
   overlay_filter: 0.25 
 ---

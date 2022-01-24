@@ -3,7 +3,7 @@ layout: splash
 permalink: /engine/
 title: "Engineering Industry and Entrepreneurship (ENGINE) Capstone"
 header:
-  overlay_image: /assets/images/asb.jpg
+  overlay_image: /assets/images/engine_logo.png
   overlay_color: #000
   overlay_filter: 0.5
   caption: "My ASB team at Granger, Washington 2017"

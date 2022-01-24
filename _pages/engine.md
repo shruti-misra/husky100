@@ -11,7 +11,7 @@ header:
 
 <h1>The Beginning</h1>
 
-<figure style="width: 300px" class="align-left">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/engine.png" alt="">
 </figure>
 

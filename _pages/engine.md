@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /engine/
-title: "Engineering Industry and Entrepreneurship (ENGINE) Capstone"
+title: ""
 header:
   overlay_image: /assets/images/engine_logo.png
   overlay_color: #000
@@ -13,6 +13,7 @@ header:
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/engine.png" alt="">
+  <figcaption>My senior capstone design team from 2015</figcaption>
 </figure>
 
 In 2015, the Department of Electrical and Computer Engineering piloted a capstone course, in which students work on industry projects for two quarters. My team was in the first cohort and worked on a project with Booz Allen Hamilton. I designed a system to track an underwater remotely operated vehicle, as GPS does not work underwater. Despite being challenging, the project made me feel like I was working on something significant and enhanced my confidence in my skills.

@@ -8,7 +8,13 @@ header:
   overlay_filter: 0.5
   caption: "My ASB team at Granger, Washington 2017"
 ---
-My first entrepreneurial experience was a summer internship for small startup called Athena Energy Corp in 2015. I developed a smart power outlet for them among other projects. While the startup was unsuccessful, it was an incredible experience in developing a product from start to finish and learning how a business works. 
+
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/entre_athena.JPG" alt="">
+  <figcaption>Smart power outlet for Athena Energy Corp</figcaption>
+</figure>
+
+My first entrepreneurial experience was a summer internship for small startup called Athena Energy Corp in 2015. I developed a <a href = "https://www.kickstarter.com/projects/1880021630/the-wired-outlet-energy-control-through-the-cloud?ref=discovery&term=Dimos%20Katsis">smart power outlet</a>for them among other projects. While the startup was unsuccessful, it was an incredible experience in developing a product from start to finish and learning how a business works. 
 
 The ENGINE capstone has complemented my entrepreneurial interests, as it supports participating companies in rapid product development and allows me to see the needs that drive their business. Through the capstone, I have seen a variety of new technologies driven by diverse business needs.
 

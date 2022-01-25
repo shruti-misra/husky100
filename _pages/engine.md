@@ -23,6 +23,6 @@ In addition to providing a significant undergraduate engineering experience, ENG
 
 Through ENGINE I have 
 
--grown as an educator
--gained confidence and breadth of knowledge as an engineer
--discovered my interest in innovation and entrepreneurship. 
+* grown as an educator
+* gained confidence and breadth of knowledge as an engineer
+* discovered my interest in innovation and entrepreneurship. 

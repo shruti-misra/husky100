@@ -13,10 +13,16 @@ header:
   <figcaption>My senior capstone design team from 2015</figcaption>
 </figure>
 
-In 2015, the Department of Electrical and Computer Engineering piloted a capstone course, in which students work on industry projects for two quarters. My team was in the first cohort and worked on a project with Booz Allen Hamilton. I designed a system to track an underwater remotely operated vehicle, as GPS does not work underwater. Despite being challenging, the project was my first real-world engineering experience and bolstered confidence in my skills.
+In 2015, I participated in the electrical and computer engineering department's pilot for a <a href = "https://www.ece.uw.edu/entrepreneurship/entrepreneurial-capstone/">capstone course</a>, in which students work on industry projects for two quarters. My team worked with Booz Allen Hamilton and I designed a system to track an underwater remotely operated vehicle. I was the only woman in the room, which added to my imposter syndrome. However, completing a challenging project while having a supportive team bolstered confidence in my engineering skills and elevated my sense of belonging.
 
 <h1>Giving Back</h1>
 
-The capstone involves uncertainty inherent in any design process, making it challenging for students who don't have experience defining a feasible project. Therefore, I was delighted to be given the opportunity to be a teaching assistant (TA) for the program, as it was growing and had room for impact on student experience. I have been the lead TA for the capstone since 2018. With support from the instructor, I have introduced curricular interventions based on data I collect from students. My favorite part about being a TA is connecting with students as they navigate the complex problem-solving experience and help them see challenges as opportunities for growth. 
+Given my impactful capstone experience, I volunteered to mentor the team continuing my project next year. At this point, the program was growing and had much room for improvement. Therefore, I was delighted when I was made a lead teaching assistant (TA) for it in 2018, as it meant that I could substantially impact student experience. As a TA, I most enjoy connecting with students as they solve complex problems and reframing challenges as opportunities for learning.
 
-The capstone not only provided an impactful engineering experience as an undergraduate, it also inspired a shift in my PhD. My research initially focused on developing mathematical models for the innovation process. This direction felt too theoretical and removed from realistic application. Meanwhile, I saw the capstone as a platform for innovation and the students and industry mentors as agents driving the process. Therefore, I decided to study the capstone as part of my dissertation. The insights generated from my research inform evidence-based curricular interventions for the course. 
+In addition to providing a significant undergraduate engineering experience, ENGINE also inspired a shift in my PhD. My research initially focused on developing mathematical models for the innovation process. This direction felt too theoretical and removed from concrete application. Meanwhile, I saw the capstone as a platform for innovation and the students and industry mentors as agents driving the process. Therefore, I decided to study the capstone as part of my dissertation. The insights generated from my research inform evidence-based curricular interventions for the course. 
+
+Through ENGINE I have 
+
+-grown as an educator
+-gained confidence and breadth of knowledge as an engineer
+-discovered my interest in innovation and entrepreneurship. 

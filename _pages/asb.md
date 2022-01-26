@@ -16,8 +16,9 @@ The Alternative Spring Break (ASB) Program has catalyzed my unique UW experience
 
 <h1>The Beginning</h1>
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/asb_2013.png" alt="">
+  <figcaption>EASB 2013, Quileute Tribal School, La Push, WA</figcaption>
 </figure>
 
 I first participated in the Environmental ASB (EASB) in 2013 during my freshman year. During spring break, my team worked with elementary and middle school students at the Quileute Tribal School in La Push, teaching them about Washington's diverse environment. Simply the wonder that students expressed as they engaged with our activities was sufficient to convince me that this first experience as an educator won't be my last.
@@ -27,8 +28,9 @@ EASB was a critical juncture in my undergraduate trajectory. As I created curric
 
 <h1>Giving Back</h1>
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/asb_2017.png" alt="">
+  <figcaption>STEM- Engineering ASB 2018, Granger High School, Granger, WA</figcaption>
 </figure>
 
 Engineering was challenging. I constantly doubted my intellectual abilities and lost sight of why I changed majors. Instead of sustainability, I focused on embedded computing, because everyone else was doing it and it had lucrative jobs. Due to muddled motivations, I pursued those jobs despite not finding them interesting. I graduated with a good grade, but lost a sense of purpose. So, when I started my Masters program, I was looking to apply my skills to directly impact communities. 

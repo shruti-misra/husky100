@@ -10,19 +10,13 @@ header:
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/engine.png" alt="">
-  <figcaption>My senior capstone student design team from 2015 (bottom) and my team with industry and faulty mentors (top)</figcaption>
+  <figcaption>My senior capstone student design team from 2015 </figcaption>
 </figure>
 
 In 2015, I participated in the electrical and computer engineering department's pilot for a capstone course, in which students work on industry projects for two quarters. My team worked with Booz Allen Hamilton and I designed a system to track an underwater remotely operated vehicle. The project was technically challenging and being the only woman on the team was unnerving. However, completing the project and having a supportive team truly helped me build confidence in my abilities and find community.
 
 <h1>Giving Back</h1>
 
-After an impactful capstone experience, I volunteered to mentor the team continuing my project next year. At this point, the program was growing and had room for improvement. Therefore, I was delighted when I was made a lead teaching assistant (TA) for it in 2018. I could now substantially impact student experience by connecting with students as they solved complex problems and help them see challenges as opportunities for growth.
+After an impactful capstone experience, I volunteered to mentor the team continuing my project next year. At this point, ENGINE was growing and had room for improvement. Therefore, I was delighted when I was made a lead teaching assistant (TA) for it in 2018. I could now substantially impact student experience by connecting with students as they solved complex problems and help them see challenges as opportunities for growth. However, empathy was not sufficient to drive change, I needed evidence to support any intervention I was proposing. Therefore, I decided to study ENGINE as part of my dissertation. 
 
-In addition to providing a significant undergraduate engineering experience, ENGINE also inspired a shift in my PhD. My research initially focused on developing mathematical models for the innovation process. This direction felt too theoretical and removed from concrete application. Meanwhile, I saw the capstone as a platform for innovation and the students and industry mentors as agents driving the process. Therefore, I decided to study the capstone as part of my dissertation. The insights generated from my research inform evidence-based curricular interventions for the course. 
-
-Through ENGINE I have 
-
-* grown as an educator
-* gained confidence and breadth of knowledge as an engineer
-* discovered my interest in innovation and entrepreneurship. 
+Broadly, my research involves studying the innovation process. However, my original research which focused on modeling innovation mathematically, felt dissatisfying as it was removed from concrete application. Meanwhile, I saw ENGINE as a platform for innovation and the students and industry mentors as agents driving the process. Studying the capstone for my PhD felt right because (1) evidence from my research could be directly applied to improve ENGINE (2) it is a novel setting where business innovation is driven by educational goals (3) it was in harmony with all three aspects of my identity and values.

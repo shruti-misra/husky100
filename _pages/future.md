@@ -14,6 +14,6 @@ excerpt: |
   **-David Bowie**
 ---
 
-My Husky experience is characterized by wandering, finding a direction and wandering again. It has helped me cultivate resilience and a trust in myself that I will land on my feet no matter what. Because of it, I'm unafraid of getting lost and taking risks. In fact, I like being lost because that will lead me to a new place. By risking the unknown is how one finds truly exciting opportunities for change and impact.
+My Husky experience is characterized by a cycle of wandering and finding a direction. It has helped me cultivate resilience and a trust in myself that I will land on my feet no matter what. Because of it, I'm unafraid of getting lost and taking risks. In fact, I like being lost because that will lead me to a new place. By risking the unknown is how one finds truly exciting opportunities for change and impact.
 
 At this point, I'm still contemplating which path to take after I graduate. However, regardless of the path, I believe that my Husky experience has endowed me with the education, relationships, self-awareness and grit required to lead impact wherever I go. 

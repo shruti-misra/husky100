@@ -16,19 +16,18 @@ The Alternative Spring Break (ASB) Program has catalyzed my unique UW experience
 
 <h1>The Beginning</h1>
 
-<figure style="width: 400px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/asb_2013.png" alt="">
   <figcaption>EASB 2013, Quileute Tribal School, La Push, WA</figcaption>
 </figure>
 
 I first participated in the Environmental ASB (EASB) in 2013 in my freshman year. During spring break, my team worked with elementary and middle school students at the Quileute Tribal School in La Push, teaching them about Washington's diverse environment. Simply the wonder that students expressed as they engaged with our activities was sufficient to convince me that this first experience as an educator won't be my last.
 
-EASB was a critical juncture in my undergraduate trajectory. As I created curriculum on sustainability, I grew increasingly interested in it. Therefore, I decided to switch my major from molecular biology to electrical engineering and study sustainable energy.
-
+EASB was a critical juncture in my undergraduate trajectory. As I created curriculum on sustainability, I grew passionate about it. Therefore, I decided to switch my major from molecular biology to electrical engineering and study sustainable energy.
 
 <h1>Giving Back</h1>
 
-<figure style="width: 400px" class="align-right">
+<figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/asb_2017.png" alt="">
   <figcaption>STEM- Engineering ASB 2018, Granger High School, Granger, WA</figcaption>
 </figure>
@@ -37,4 +36,4 @@ Engineering was challenging. I constantly doubted my intellectual abilities and 
 
 I approached The Pipeline Project with an idea to have an engineering ASB. Consequently, we worked with a new school (Granger High School) in Yakima Valley and taught their students an engineering design curriculum.
 
-ASB propelled me to recognize my values, realize my identity as an educator and rediscover my purpose as an engineer, who could create impact while connecting with diverse communities. It solidified the importance of empathy and community-oriented education, facets of my teaching philosophy, which I use today as a teaching assistant.
+Through ASB, I discovered that using my skills to create meaningful impact drove my sense of purpose. I did not have to restrict myself to a specific area, as long as it elevated social good. ASB also defined empathy and community as values important to me as an educator, which I now use as a teaching assistant. 

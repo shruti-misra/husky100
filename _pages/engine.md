@@ -8,7 +8,7 @@ header:
 
 <h1>The Beginning</h1>
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 500px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/engine.png" alt="">
   <figcaption>My senior capstone student design team from 2015 </figcaption>
 </figure>

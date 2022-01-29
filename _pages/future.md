@@ -1,6 +1,6 @@
 ---
 layout: splash
-author_profile: true
+permalink: /future/
 title: " "
 header:
   overlay_image: /assets/images/header_image.jpg

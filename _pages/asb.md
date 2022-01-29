@@ -6,7 +6,8 @@ header:
   overlay_image: /assets/images/asb.JPG 
   overlay_color: "#000"
   overlay_filter: 0.15
-  caption: "My ASB team at Granger, Washington 2017" 
+  caption: "My ASB team at Granger, Washington 2017"
+excerpt: <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 ---
  
 

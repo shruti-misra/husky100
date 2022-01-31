@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /asb/
-title: "Alternative Spring Break Programs"
+title: " "
 header:
   overlay_image: /assets/images/asb.JPG 
   caption: "My ASB team at Granger, Washington 2017"
@@ -18,7 +18,7 @@ The Alternative Spring Break (ASB) Program has catalyzed my unique UW experience
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/asb_1317.png" alt="">
 </figure>
 
-II first participated in the Environmental ASB (EASB) in 2013 in my freshman year. During spring break, my taught elementary and middle school students at the Quileute Tribal School in La Push, about Washington's diverse environment. Simply the wonder that students expressed as they engaged with our activities was sufficient to convince me that this first experience as an educator won't be my last.
+I first participated in the Environmental ASB (EASB) in 2013 in my freshman year. During spring break, my taught elementary and middle school students at the Quileute Tribal School in La Push, about Washington's diverse environment. Simply the wonder that students expressed as they engaged with our activities was sufficient to convince me that this first experience as an educator won't be my last.
 
 EASB was a critical juncture in my undergraduate trajectory. As I created curriculum on sustainability, I grew passionate about it. Therefore, I decided to switch my major from molecular biology to electrical engineering and study sustainable energy.
 
@@ -26,6 +26,8 @@ EASB was a critical juncture in my undergraduate trajectory. As I created curric
 
 Engineering was challenging. I constantly doubted my intellectual abilities and lost sight of why I changed majors. Instead of sustainability, I focused on embedded computing, because everyone else was doing it and it led to lucrative jobs. Due to muddled motivations, I pursued those jobs despite not finding them interesting. I graduated with a good grade, but lacked a sense of purpose. 
 
-When I started my Masters program, I was looking to apply my engineering skills towards a cause. I approached The Pipeline Project with an idea to have an engineering ASB. Consequently, we worked with a new school (Granger High School) in Yakima Valley and taught their students an engineering design curriculum.
+When I started my Masters program, I was looking to apply my engineering skills towards a cause. So, I approached The Pipeline Project with an idea to have an engineering ASB. Consequently, we worked with a new school (Granger High School) in Yakima Valley and taught their students an engineering design curriculum.
 
-Through ASB, I discovered that using my skills to create meaningful impact drove my sense of purpose. I did not have to restrict myself to a specific area, as long as it elevated social good. ASB also defined empathy and community as values important to me as an educator, which I now use as a teaching assistant. 
+Through ASB, I discovered that using my skills to create meaningful impact drove my sense of purpose. The area of impact was secondary to me as long as it elevated a social good. ASB also defined empathy and community as values important to me as an educator, that I now use as a teaching assistant. 
+
+<a href="https://shruti-misra.github.io/husky100/" class="btn--info">Go back to the Main Page</a>

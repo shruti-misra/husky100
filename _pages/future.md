@@ -17,3 +17,5 @@ excerpt: |
 My Husky experience is characterized by a cycle of wandering and finding a direction. It has helped me cultivate resilience and a trust in myself that I will land on my feet no matter what. Because of it, I'm unafraid of getting lost and taking risks. In fact, I like being lost because that usually leads me to somewhere new. By risking the unknown is how one finds truly exciting opportunities for change and impact.
 
 I'm still contemplating which path to take after I graduate. However, regardless of the path, I believe that my Husky experience has endowed me with the education, relationships, self-awareness and grit required to lead impact wherever I go. 
+
+<a href="https://shruti-misra.github.io/husky100/" class="btn--info">Go back to the Main Page</a>

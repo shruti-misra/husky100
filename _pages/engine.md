@@ -23,3 +23,4 @@ Broadly, my research involves studying the innovation process. However, my origi
 
 ENGINE ties together all elements of my identity. It enabled me to grow as an engineer, innovate as an educator and introspect as a scholar.
 
+<a href="https://shruti-misra.github.io/husky100/" class="btn--info">Go back to the Main Page</a>

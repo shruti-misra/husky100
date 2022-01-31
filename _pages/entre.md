@@ -19,3 +19,7 @@ In 2015, I interned at a startup called Athena Energy Corp. Although the startup
 Meanwhile, after a summer internship at a big organization (Microsoft), I reflected on my experience at Athena and realized that at a smaller venture, I had greater ownership of the product and more opportunity for direct impact. So, I combined my research with entrepreneurial interests in order to "learn by doing" and enrolled in the Foster School of Business's Tech Entrepreneurship Certificate (TEC). 
 
 Through TEC, I have the opportunity to participate in an accelerator <a href = "https://www.creativedestructionlab.com/locations/seattle/">(Creative Destruction Labs)</a>, which helps digital health startups bring product to market. I am also participating in the Holloman Health Innovation Challenge in a team, to explore bringing a new type of vaginal dilator to market, targeted towards a diverse population (women, transgender and intersex) who need vaginal dilation therapy.
+
+These experiences taught me how entrepreneurship and technological innovation can drive social impact and enrich my scholarship on it through first-hand experience.
+
+<a href="https://shruti-misra.github.io/husky100/" class="btn--info">Go back to the Main Page</a>

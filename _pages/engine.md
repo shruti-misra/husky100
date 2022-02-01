@@ -13,7 +13,7 @@ header:
   <figcaption>My senior capstone student design team from 2015 </figcaption>
 </figure>
 
-In 2015, I participated in the electrical and computer engineering department's pilot for a capstone course, in which students work on industry projects for two quarters. My team worked with Booz Allen Hamilton and I designed a system to track an underwater remotely operated vehicle. The project was technically challenging and being the only woman on the team was unnerving. However, completing the project and having a supportive team truly helped me build confidence in my abilities and find community.
+In 2015, I participated in the electrical and computer engineering department's pilot for a capstone course, in which students work on industry projects for two quarters. My team worked with <a href = "https://www.boozallen.com">Booz Allen Hamilton</a> and I designed a system to track an underwater remotely operated vehicle. The project was technically challenging and being the only woman on the team was unnerving. However, completing the project and having a supportive team truly helped me build confidence in my abilities and find community.
 
 <h1>Giving Back</h1>
 
@@ -23,4 +23,5 @@ Broadly, my research involves studying the innovation process. However, my origi
 
 ENGINE ties together all elements of my identity. It enabled me to grow as an engineer, innovate as an educator and introspect as a scholar.
 
-<a href="https://shruti-misra.github.io/husky100/" class="btn--info">Go back to the Main Page</a>
+<a href="https://shruti-misra.github.io/husky100/" class="btn btn--success">Go to the Next Page</a>
+<a href="https://shruti-misra.github.io/husky100/" class="btn btn--info">Go back to the Main Page</a>

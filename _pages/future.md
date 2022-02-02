@@ -13,13 +13,16 @@ excerpt: |
   
   **-David Bowie**
 ---
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/exp+ID.png" alt="">
+</figure>
 
 <figure style="width: 300px" class="align-right">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/opportunities.jpeg" alt="">
   <figcaption>Gratitude for a wealth of experiences new and old (Ink on Paper)</figcaption>
 </figure>
 
-My Husky experience is characterized by a cycle of wandering and finding a direction. It has helped me cultivate resilience and a trust in myself that I will land on my feet no matter what. Because of it, I'm unafraid of getting lost and taking risks. In fact, I like being lost because that usually leads me to somewhere new. By risking the unknown is how one finds truly exciting opportunities for change and impact.
+My Husky experience has been about asking "what more can I be and how else can I contribute?" In answering those questions through my UW journey, I have learned resilience and unabashed authenticity. I'm unafraid of being lost, because it usually leads to a new discovery about myself, the world or a way to impact society.
 
 I'm still contemplating which path to take after I graduate. However, regardless of the path, I believe that my Husky experience has endowed me with the education, relationships, self-awareness and grit required to lead impact wherever I go. 
 

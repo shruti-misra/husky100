@@ -26,9 +26,10 @@ EASB was a critical juncture in my undergraduate trajectory. As I created curric
 
 Engineering was challenging. I constantly doubted my intellectual abilities and lost sight of why I changed majors. Instead of sustainability, I focused on embedded computing, because everyone else was doing it and it led to lucrative jobs. Due to muddled motivations, I pursued those jobs despite not finding them interesting. I graduated with a good grade, but lacked a sense of purpose. 
 
-When I started my Masters program, I was looking to apply my engineering skills towards a cause. So, I approached The Pipeline Project with an idea to have an engineering ASB. Consequently, we worked with a new school (Granger High School) in Yakima Valley and taught their students an engineering design curriculum.
+When I started my Masters program, I was looking to apply my engineering skills towards a cause. So, I approached The Pipeline Project with an idea to have an engineering ASB. Consequently, we worked with a new school (<a href = "https://en.wikipedia.org/wiki/Granger,_Washington">Granger</a> High School) in Yakima Valley and taught their students an engineering design curriculum.
 
-ASB led me to be an engineer and an educator. Through it, I discovered that creating meaningful social impact drove my sense of purpose, regardless of where the impact was being created. In the process,I realized the importance of empathy and community as an educator, values I now apply as a teaching assistant. 
+ASB led me to be an engineer and an educator. Through it, I discovered that creating meaningful social impact drove my sense of purpose, regardless of where the impact was being created. In the process, I realized the importance of empathy and community as an educator, values I now apply as a teaching assistant. 
 
-<a href="https://shruti-misra.github.io/husky100/" class="btn btn--success">Go to the Next Page</a>
 <a href="https://shruti-misra.github.io/husky100/" class="btn btn--info">Go back to the Main Page</a>
+<a href="https://shruti-misra.github.io/husky100/engine/" class="btn btn--success">Go to the Next Page</a>
+

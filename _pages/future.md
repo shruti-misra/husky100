@@ -26,4 +26,9 @@ My Husky experience has been about asking "what more can I be and how else can I
 
 I'm still contemplating which path to take after I graduate. However, regardless of the path, I believe that my Husky experience has endowed me with the education, relationships, self-awareness and grit required to lead impact wherever I go. 
 
+<figure style="width: 300px" class="align-right">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/opportunities.jpeg" alt="">
+  <figcaption>Gratitude for a wealth of experiences new and old (Ink on Paper)</figcaption>
+</figure>
+
 <a href="https://shruti-misra.github.io/husky100/" class="btn btn--info">Go back to the Main Page</a>

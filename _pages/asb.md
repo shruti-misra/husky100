@@ -4,7 +4,6 @@ permalink: /asb/
 title: " "
 header:
   overlay_image: /assets/images/asb.JPG 
-  caption: "My ASB team at Granger, Washington 2017"
 excerpt: <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 ---
  

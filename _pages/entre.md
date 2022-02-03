@@ -4,7 +4,8 @@ permalink: /entre/
 title: " "
 header:
   overlay_image: /assets/images/opportunities.jpeg
-caption: Opportunities (Ink on Paper)
+  caption: Opportunities (Ink on Paper)
+excerpt: <br> <br> <br> <br> <br> <br> <br> <br> <br> 
 ---
 
 <figure style="width: 300px" class="align-right">

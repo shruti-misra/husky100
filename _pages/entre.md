@@ -1,12 +1,10 @@
 ---
 layout: splash
 permalink: /entre/
-title: "Entrepreneurship"
+title: " "
 header:
-  overlay_image: /assets/images/asb.jpg
-  overlay_color: #000
-  overlay_filter: 0.5
-  
+  overlay_image: /assets/images/opportunities.jpeg
+caption: Opportunities (Ink on Paper)
 ---
 
 <figure style="width: 300px" class="align-right">

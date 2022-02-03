@@ -10,7 +10,7 @@ excerpt: <br> <br> <br> <br> <br> <br> <br> <br> <br>
  
 
 
-The Alternative Spring Break (ASB) Program has catalyzed my unique UW experience. The program is a part of <a href = "https://expd.uw.edu/riverways/rural-tribal/">Riverways Education Partnerships </a> (formerly known as The Pipeline Project) and serves rural and tribal schools across Washington State. 
+The Alternative Spring Break (ASB) Program initiated my unique UW experience. The program is a part of <a href = "https://expd.uw.edu/riverways/rural-tribal/">Riverways Education Partnerships </a> (formerly known as The Pipeline Project) and serves rural and tribal schools across Washington State. 
 
 <h1>The Beginning</h1>
 

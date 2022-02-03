@@ -13,22 +13,13 @@ excerpt: |
   
   **-David Bowie**
 ---
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/exp+ID.png" alt="">
-</figure>
-
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/opportunities.jpeg" alt="">
-  <figcaption>Gratitude for a wealth of experiences new and old (Ink on Paper)</figcaption>
-</figure>
 
 My Husky experience has been about asking "what more can I be and how else can I contribute?" In answering those questions through my UW journey, I have learned resilience and unabashed authenticity. I'm unafraid of being lost, because it usually leads to a new discovery about myself, the world or a way to impact society.
 
 I'm still contemplating which path to take after I graduate. However, regardless of the path, I believe that my Husky experience has endowed me with the education, relationships, self-awareness and grit required to lead impact wherever I go. 
 
-<figure style="width: 300px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/opportunities.jpeg" alt="">
-  <figcaption>Gratitude for a wealth of experiences new and old (Ink on Paper)</figcaption>
+<figure style="width: 500px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/exp+ID.png" alt="">
 </figure>
 
 <a href="https://shruti-misra.github.io/husky100/" class="btn btn--info">Go back to the Main Page</a>
